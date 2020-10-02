@@ -3,4 +3,4 @@
 git clone https://kjgharat@github.com/kjgharat/rust_learn.git 
 git -c user.name='kjgharat' -c user.email='kjgharat@hotmail.com' commit -m '...'
 git add *
-
+git push
